@@ -67,7 +67,7 @@
                   <ul class="nav navbar-nav">
                     <li ><a href="index.html#home">HOME</a></li>
                     <li class="active"><a href="index.html#productsandservices">Product and Service</a></li>
-                    <li><a href="index.html#news">News</a></li>
+                    <li><a href="index.html#newsslider">News</a></li>
                     <li><a href="index.html#companyprofile">Company Profile</a></li>
                     <li><a href="index.html#recruitment">Recruitment</a></li>
                   </ul>
@@ -267,7 +267,7 @@
 			
 			//smooth scroll to href value
 			jQuery(".tabs-btn ul li a, .navbar-nav li a, .navbar-brand").click(function(event){
-				 event.preventDefault();
+				 //event.preventDefault();
 				 //calculate destination place
 				 var dest=0;
 				 if($(this.hash).offset().top > $(document).height()-$(window).height()){

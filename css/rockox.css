@@ -562,7 +562,7 @@ section{ padding:80px 0;}
 /* our clients */
 .our-clients{background: url("../images/clients-bg.jpg") repeat;background-attachment:fixed; border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3;position:relative;}
 .our-clients h1{ margin-bottom:50px; border:0; padding-left:0}
-.testimonial{ border-radius: 2px; font-size: 20px; font-style: italic; margin:0 auto 0 auto;width: 100%;padding: 60px 88px;position: relative;}
+.testimonial{ border-radius: 2px; font-size: 14px; font-style: normal; margin:0 auto 0 auto;width: 100%;padding: 60px 88px;position: relative;}
 .testimonial p{ line-height:28px; margin-bottom:0}
 .testimonial .fa-quote-left, .testimonial .fa-quote-right{ font-size:41px; color:#ebebeb; position:absolute;}
 .testimonial .fa-quote-left{ top:40px; left:28px;}

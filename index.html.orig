@@ -902,7 +902,11 @@ Graphic Design the power of Suspendisse potenti.</p>
                           <!-- Indicators -->
                           <ol class="carousel-indicators">
                             <li data-target="#carousel-example-generic" data-slide-to="0" class="active">
+<<<<<<< HEAD
                             	<img src="images/cp-thumb1.jpg" alt="" title="" class="img-circle">
+=======
+                            	<img src="images/cp-thumb.jpg" alt="" title="" class="img-circle">
+>>>>>>> origin/master
                                 <span><b>Company Profile</b></span>
                             </li>
                             <li data-target="#carousel-example-generic" data-slide-to="1">

@@ -5634,7 +5634,7 @@ button.close {
 
 .carousel-indicators li img{ float:left; padding-right:7px;}
 .carousel-indicators li span{ color: #616161; display: inline-block;font-size: 14px; padding-top: 15px;text-align: left;}
-.carousel-indicators li span b{ color:#393939; font-size:18px; display:block; font-weight:500;}
+.carousel-indicators li span b{ color:#fe4419; font-size:18px; display:block; font-weight:500;}
 
 .carousel-caption {
     position: absolute;
